@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubhanshu Gupta.
 - 👀 I’m interested in Machine Learning and Solving programming questions.
 - 🌱 I’m currently learning about Deep Learning.
-- 💞️ I’m looking to collaborate on ML and Web development projects.
+- 💞️ I’m looking to collaborate on ML and DL projects.
 - 📫 How to reach me https://www.linkedin.com/in/gupta-shubhanshu pin me here!
 
 <!---
