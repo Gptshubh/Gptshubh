@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubhanshu Gupta.
 - 👀 I’m interested in Machine Learning and Deep Learning. 
-- 🌱 I’m currently learning about Computer Vision. 
+- 🌱 I’m currently learning about Computer Vision and DevOps.
 - 💞️ I’m looking to collaborate on ML and DL projects.
 - 📫 How to reach me https://www.linkedin.com/in/gupta-shubhanshu pin me here!
 
